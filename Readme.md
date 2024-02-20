@@ -16,7 +16,7 @@ D. Petal width
 
 ### Repository Structure
 1. data/: Directory containing the Iris dataset in CSV format.
-2. Logistic_regression/: Jupyter notebooks for exploring the dataset, performing data preprocessing, and building machine learning models.
+2. notebooks/: Jupyter notebooks for exploring the dataset, performing data preprocessing, and building machine learning models.
 3. README.md: This file providing an overview of the project.
 
 ### Available Models
@@ -26,10 +26,9 @@ The following machine learning models are implemented in this project:
 * RandomForestClassifier
 * GradientBoostingClassifier
 * AdaBoostClassifier
-* VotingClassifier
 * BaggingClassifier
 
 ### Contributors
-Mankirat.S
+Mankirat Singh
 
-<u>Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests.<u>
+Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests.
