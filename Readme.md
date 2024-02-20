@@ -28,3 +28,8 @@ The following machine learning models are implemented in this project:
 * AdaBoostClassifier
 * VotingClassifier
 * BaggingClassifier
+
+### Contributors
+Mankirat.S
+
+<u> Feel free to contribute to the project by opening issues, suggesting improvements, or submitting pull requests. <u>
